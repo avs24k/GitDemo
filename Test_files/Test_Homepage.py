@@ -19,8 +19,6 @@ class Test_Page(Base_class,classname):
         Hp.User_Name_Type(config.get("User_Info", "First_name"))
         log.info("User Successfully Type Name")
 
-        Hp.User_Email_Click()
-        log.info("User Successfully click on Email")
 
         Hp.User_Email_Type(config.get("User_Info", "User_Email"))
         log.info("User Successfully Type Email")
