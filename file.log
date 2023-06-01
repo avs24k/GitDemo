@@ -1,0 +1,12 @@
+2023-05-30 14:21:55,944: INFO: Test_Homepage: root: User Successfully click on Name
+2023-05-30 14:21:56,058: INFO: Test_Homepage: root: User Successfully Type Name
+2023-05-30 14:21:56,174: INFO: Test_Homepage: root: User Successfully click on Email
+2023-05-30 14:21:56,289: INFO: Test_Homepage: root: User Successfully Type Email
+2023-05-30 14:21:56,372: INFO: Test_Homepage: root: User Successfully click on PassWord
+2023-05-30 14:21:56,432: INFO: Test_Homepage: root: User Successfully Type PassWord
+2023-05-30 14:21:56,492: INFO: Test_Homepage: root: User Successfully click on CheckBox
+2023-05-30 14:21:56,571: INFO: Test_Homepage: root: User Successfully click on Gander
+2023-05-30 14:21:58,689: INFO: Test_Homepage: root: User Successfully click on CheckBox
+2023-05-30 14:22:01,434: INFO: Test_Homepage: root: User Successfully Type DOB
+2023-05-30 14:22:01,550: INFO: Test_Homepage: root: User Successfully click on Button
+2023-05-30 14:22:04,566: CRITICAL: Test_Homepage: root: User Successfully logged in
